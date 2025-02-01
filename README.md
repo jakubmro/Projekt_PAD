@@ -1,4 +1,4 @@
-# Projekt_PAD
+# Projekt_PAD - Analiza eksploracyjna kontuzji w NBA
 Projekt zaliczeniowy przedmiotu PAD na PJATK
 
 Opis struktury projektu:
